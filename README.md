@@ -1,1 +1,3 @@
 # myserver
+
+MIT LICENSE
